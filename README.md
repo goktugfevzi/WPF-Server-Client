@@ -19,6 +19,7 @@ View the current state of the light and text in the application.
 
 
 #### Installation
+
 Clone the repository to your local machine.</br>
 ```sh
 git clone https://github.com/goktugfevzi/WPF-Server-Client.git
@@ -37,12 +38,13 @@ git clone https://github.com/goktugfevzi/WPF-Server-Client.git
 
 - Once connected, the client will retrieve the current state of the light and text in the application.
 
+
 ## Technologies Used
 
-C#
-WPF
-MVVM
-TCP/IP Protocol
+C#</br>
+WPF</br>
+MVVM</br>
+TCP/IP Protocol</br>
 
 #### Some Screenshots
 
