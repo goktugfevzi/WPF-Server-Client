@@ -8,17 +8,14 @@
 
 ## Description
 
-This repository contains a simple WPF application for a client-server communication. The project includes two separate applications: a server and a client.
+This is a TCP server-client application built with C# and WPF using the MVVM design pattern. The application allows the user to send a random number to the server, which can turn on or off a light on the client side. The server-client communication is done using the TCP/IP protocol.
 
+## Features
 
-## Getting Started
-#### Prerequisites
-
-
-To run the applications, you need to have the following software installed on your machine:</br></br>
-
-Visual Studio 2019 or later</br>
-.NET 6.0 or later</br>
+Connect to a server and retrieve the current state of the light and text in the application.
+Send a random number to the server.
+Turn on or off the light on the client side.
+View the current state of the light and text in the application.
 
 
 #### Installation
@@ -26,17 +23,26 @@ Clone the repository to your local machine.</br>
 ```sh
 git clone https://github.com/goktugfevzi/WPF-Server-Client.git
 ```
-</br>
-Open the solution file WPF-Server-Client.sln in Visual Studio.
-</br>
-
 
 ## Usage
-- Start the server application by running the Server project.
-- Start the client application by running the Client project.
-- Click the Random button to send the number to the server.
-- The server will respond with a random message, which will be displayed in the text block.
+- Open the solution file in Visual Studio.
 
+- Build the solution to ensure that all dependencies are installed.
+
+- Use the "Random" button to send a random number to the server.
+
+- Use the "On/Off" button to turn on or off the light on the client side.
+
+- The current state of the light and text in the application can be viewed in the client window.
+
+- Once connected, the client will retrieve the current state of the light and text in the application.
+
+## Technologies Used
+
+C#
+WPF
+MVVM
+TCP/IP Protocol
 
 #### Some Screenshots
 
