@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Green.png" />
+    <None Remove="Images\Red.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0-windows\Client.deps.json" />
+    <Content Include="bin\Debug\net6.0-windows\Client.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0-windows\Client.dll" />
+    <None Include="bin\Debug\net6.0-windows\Client.exe" />
+    <None Include="bin\Debug\net6.0-windows\Client.pdb" />
+    <None Include="bin\Debug\net6.0-windows\SimpleTCP.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Green.png" />
+    <Resource Include="Images\Red.png" />
+  </ItemGroup>
+
+</Project>

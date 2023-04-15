@@ -1,0 +1,22 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:ViewModel="clr-namespace:Client.MVVM.ViewModel"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="475" Width="240">
+
+    <Window.DataContext>
+        <ViewModel:MainViewModel/>
+    </Window.DataContext>
+    <Grid>
+
+        <Button Command="{Binding SendMessageCommand}" Content="Random" Margin="86,331,86,77" />
+        <Label Content="{Binding getMessage}" FontSize="20" Margin="86,248,66,141" />
+        <Image  x:Name="LightImg" Height="103" HorizontalAlignment="Left" Margin="47,53,0,0"  Stretch="Fill" VerticalAlignment="Top" Width="143" Source="{Binding ImagePath,Mode=OneWay}" />
+        <Button Command="{Binding LightToServerCommand}" Content="On/ Off" Margin="86,168,86,240" />
+
+    </Grid>
+</Window>
