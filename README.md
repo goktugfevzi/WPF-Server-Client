@@ -12,14 +12,13 @@ This repository contains a simple WPF application for a client-server communicat
 
 
 ## Getting Started
-Prerequisites
+#### Prerequisites
 
-<p align="center">
+
 To run the applications, you need to have the following software installed on your machine:</br></br>
 
 Visual Studio 2019 or later</br>
 .NET 6.0 or later</br>
-</p>
 
 
 #### Installation
