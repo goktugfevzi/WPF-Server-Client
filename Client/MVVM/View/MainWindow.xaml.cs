@@ -17,5 +17,10 @@ namespace Client.MVVM.View
             InitializeComponent();
 
         }
+
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

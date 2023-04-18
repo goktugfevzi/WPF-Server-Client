@@ -61,3 +61,24 @@ C:\Users\esesl\source\repos\Server-Client-Wpf\Server\obj\Debug\net6.0-windows\re
 C:\Users\esesl\source\repos\Server-Client-Wpf\Server\obj\Debug\net6.0-windows\Server.pdb
 C:\Users\esesl\source\repos\Server-Client-Wpf\Server\obj\Debug\net6.0-windows\Server.genruntimeconfig.cache
 C:\Users\esesl\source\repos\Server-Client-Wpf\Server\obj\Debug\net6.0-windows\ref\Server.dll
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\bin\Debug\net6.0-windows\Server.exe
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\bin\Debug\net6.0-windows\Server.deps.json
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\bin\Debug\net6.0-windows\Server.runtimeconfig.json
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\bin\Debug\net6.0-windows\Server.dll
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\bin\Debug\net6.0-windows\Server.pdb
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\Server.csproj.AssemblyReference.cache
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\Server_MarkupCompile.cache
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\Server_MarkupCompile.lref
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\MVVM\View\MainWindow.baml
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\Server.g.resources
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\Server.AssemblyInfo.cs
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\Server.dll
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\refint\Server.dll
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\Server.pdb
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\Server.genruntimeconfig.cache
+C:\Users\esesl\Masaüstü\Yeni klasör (2)\WPF-Server-Client\Server\obj\Debug\net6.0-windows\ref\Server.dll

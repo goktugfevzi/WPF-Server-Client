@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esesl\\source\\repos\\Server-Client-Wpf\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\esesl\\Masaüstü\\Yeni klasör (2)\\WPF-Server-Client\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\esesl\\source\\repos\\Server-Client-Wpf\\Server\\Server.csproj",
+      "projectPath": "C:\\Users\\esesl\\Masaüstü\\Yeni klasör (2)\\WPF-Server-Client\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\esesl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esesl\\source\\repos\\Server-Client-Wpf\\Server\\obj\\",
+      "outputPath": "C:\\Users\\esesl\\Masaüstü\\Yeni klasör (2)\\WPF-Server-Client\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
